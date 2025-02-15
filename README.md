@@ -54,3 +54,7 @@ streamlit run medibot.py
 - Open the chatbot interface in your browser.
 - Enter queries related to diseases, symptoms, treatments, or precautions.
 - Receive AI-generated responses based on medical knowledge.
+
+## Outputs 
+![Image](https://github.com/user-attachments/assets/4e210a4a-bd82-44e9-a33a-109271ba62be)
+![Image](https://github.com/user-attachments/assets/dfd78263-a9b6-4096-a441-87dc43bdead3)
